@@ -1,9 +1,9 @@
 # About Me
-**Computer Science Student @ Gdańsk University of Technology**
 
+**Computer Science Student @ Gdańsk University of Technology**
 Focused on Backend Development. Currently seeking a Junior Software Engineer position or internship.
 
-## Technical Skills
+### Technical Skills
 
 * **Languages:** Python, Java, C#, .NET, C++
 * **Infrastructure & Tools:** Docker, Git, VirtualBox VM, Linux
@@ -34,14 +34,9 @@ Focused on Backend Development. Currently seeking a Junior Software Engineer pos
 * **Technical Highlights:** Hybrid Cryptography (RSA-4096 & AES-256), X.509 Certificates, SHA-256 Hashing, Asynchronous Network I/O, Message-Driven Architecture (JSON/DTOs).
 * [**Repository Link (secure-ttp-protocol) (to be added soon, currently on GitLab)**](https://github.com/mateushhh/secure-ttp-protocol)
 
-## University Education
+## Education
 
 * **B.Eng. in Computer Science** - Gdańsk University of Technology (2023-2027)
 * **IT Technician** - Zespół Szkół Łączności w Gdańsku (2019-2023)
     * State Certification **INF.02**: Computer hardware, operating systems, and network administration.
     * State Certification **INF.03**: Web application development and database management.
-
-## Contact Information
-
-* **LinkedIn:** [**LinkedIn Profile (Mateusz Grzonka)**](https://www.linkedin.com/in/mateuszgrzonka/)
-* **Location:** Gdańsk, Poland
