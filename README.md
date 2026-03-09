@@ -8,7 +8,7 @@ Focused on Backend Development. Currently seeking a Junior Software Engineer pos
 ### Acoustic Wave Propagation Simulator using custom FDTD methods in 3D
 * **Role:** Developer & Project Coordinator
 * **Context:** Ongoing project, engineering thesis and research project.
-* **Description:** A high-performance 3D simulator utilizing the Finite-Difference Time-Domain (FDTD) method to model acoustic wave behavior in complex environments.
+* **Description:** A high-performance 3D simulator utilizing the FDTD method to model acoustic wave behavior in complex environments.
 * **Technology Stack:** Python, Taichi Lang (CUDA/Vulkan)
 * **Technical Highlights:** GPU Acceleration, Voxelization Engine, Real-Time Visualisation, 
 * [**Repository Link (fdtd-acoustic-3d)**](https://github.com/mateushhh/fdtd-acoustic-3d)
