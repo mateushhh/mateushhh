@@ -3,6 +3,7 @@
 <p align="center">
 <b>Computer Science Student @ Gdańsk University of Technology</b> <br>
 Passionate Software Developer, focused on backend development. Currently seeking a Junior Software Engineer position or internship.
+Interested in music theory, game development, tools that actually improve everyday life.
 </p>
 
 <p align="center">
@@ -57,4 +58,3 @@ Passionate Software Developer, focused on backend development. Currently seeking
 ## Education
 
 * **B.Eng. in Computer Science** - Gdańsk University of Technology (2023-2027)
-
