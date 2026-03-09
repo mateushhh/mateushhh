@@ -1,12 +1,7 @@
 # About Me
 
-**Computer Science Student @ Gdańsk University of Technology**
+**Computer Science Student @ Gdańsk University of Technology** \
 Focused on Backend Development. Currently seeking a Junior Software Engineer position or internship.
-
-### Technical Skills
-
-* **Languages:** Python, Java, C#, .NET, C++
-* **Infrastructure & Tools:** Docker, Git, VirtualBox VM, Linux
 
 ## Key Projects
 
