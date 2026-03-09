@@ -1,4 +1,4 @@
-# Mateusz Grzonka
+# About Me
 **Computer Science Student @ Gdańsk University of Technology**
 
 Focused on Backend Development. Currently seeking a Junior Software Engineer position or internship.
