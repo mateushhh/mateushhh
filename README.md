@@ -53,7 +53,7 @@ Interested in music theory, game development, tools that actually improve everyd
 * **Description:** Designed and implemented a custom, three-node network protocol (Client, Server, TTP) to establish secure, encrypted communication channels using hybrid cryptography.
 * **Technology Stack:** C#, .NET 8, TCP/IP Sockets, VirtualBox VM
 * **Technical Highlights:** Hybrid Cryptography (RSA-4096 & AES-256), X.509 Certificates, SHA-256 Hashing, Asynchronous Network I/O, Message-Driven Architecture (JSON/DTOs).
-* [**Repository Link (secure-ttp-protocol) (to be added soon, currently on GitLab)**](https://github.com/mateushhh/secure-ttp-protocol)
+* [**Repository Link (ttp-server-client-authentication-protocol))**](https://github.com/mateushhh/ttp-server-client-authentication-protocol)
 
 ## Education
 
