@@ -57,4 +57,4 @@ Interested in music theory, game development, tools that actually improve everyd
 
 ## Education
 
-* **B.Eng. in Computer Science** - Gdańsk University of Technology (2023-2027)
+* **B.Eng. in Computer Science** - Gdańsk University of Technology (2023-Now)
