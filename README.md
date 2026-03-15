@@ -39,6 +39,14 @@ Interested in music theory, game development, tools that actually improve everyd
 * **Technical Highlights:** GPU Acceleration, Voxelization Engine, Real-Time Visualisation, 
 * [**Repository Link (fdtd-acoustic-3d)**](https://github.com/mateushhh/fdtd-acoustic-3d)
 
+### Secure TTP/Server/Client Authentication Protocol
+* **Role:** Co-Developer
+* **Context:** Academic project
+* **Description:** Designed and implemented a custom, three-node network protocol (Client, Server, TTP) to establish secure, encrypted communication channels using hybrid cryptography.
+* **Technology Stack:** C#, .NET 8, TCP/IP Sockets, VirtualBox VM
+* **Technical Highlights:** Hybrid Cryptography (RSA-4096 & AES-256), X.509 Certificates, SHA-256 Hashing, Asynchronous Network I/O, Message-Driven Architecture (JSON/DTOs).
+* [**Repository Link (ttp-server-client-authentication-protocol))**](https://github.com/mateushhh/ttp-server-client-authentication-protocol)
+
 ### Market Trading Strategy Predictor
 * **Role:** Solo Development
 * **Context:** Academic project
@@ -46,14 +54,6 @@ Interested in music theory, game development, tools that actually improve everyd
 * **Technology Stack:** Python, matplotlib, LaTEX (for analysis)
 * **Technical Highlights:** Signal logic, Visualisation, Performance Metrics
 * [**Repository Link (macd_indicator)**](https://github.com/mateushhh/macd_indicator)
-
-### Secure TTP Authentication Protocol
-* **Role:** Co-Developer
-* **Context:** Academic project
-* **Description:** Designed and implemented a custom, three-node network protocol (Client, Server, TTP) to establish secure, encrypted communication channels using hybrid cryptography.
-* **Technology Stack:** C#, .NET 8, TCP/IP Sockets, VirtualBox VM
-* **Technical Highlights:** Hybrid Cryptography (RSA-4096 & AES-256), X.509 Certificates, SHA-256 Hashing, Asynchronous Network I/O, Message-Driven Architecture (JSON/DTOs).
-* [**Repository Link (ttp-server-client-authentication-protocol))**](https://github.com/mateushhh/ttp-server-client-authentication-protocol)
 
 ## Education
 
