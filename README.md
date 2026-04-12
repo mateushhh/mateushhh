@@ -37,7 +37,7 @@ Interested in music theory, game development, tools that actually improve everyd
 * **Description:** A high-performance 3D simulator utilizing the FDTD method to model acoustic wave behavior in complex environments.
 * **Technology Stack:** Python, Taichi Lang (CUDA/Vulkan)
 * **Technical Highlights:** GPU Acceleration, Voxelization Engine, Real-Time Visualisation, 
-* [**Repository Link (fdtd-acoustic-3d)**]([https://github.com/mateushhh/fdtd-acoustic-3d](https://github.com/fdtd-acoustics/fdtd-acoustic-3d))
+* [**Repository Link (fdtd-acoustic-3d)**](https://github.com/fdtd-acoustics/fdtd-acoustic-3d)
 
 ### Secure TTP/Server/Client Authentication Protocol
 * **Role:** Co-Developer
