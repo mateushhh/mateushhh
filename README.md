@@ -1,5 +1,3 @@
-![About Me](https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?height=200&color=%23e85e00&density=18&geoSeed=QFnegn7YLf&bannerText=About+Me&backgroundColor=%230d1117)
-
 <p align="center">
 <b>Computer Science Student @ Gdańsk University of Technology</b> <br>
 Passionate Software Developer, focused on backend development. Currently seeking a Junior Software Engineer position or internship.
