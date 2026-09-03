@@ -52,6 +52,14 @@ Interested in music theory, game development, tools that actually improve everyd
 * **Technical Highlights:** Signal logic, Visualisation, Performance Metrics
 * [**Repository Link (macd_indicator)**](https://github.com/mateushhh/macd_indicator)
 
+### IoT Spotify Client with a TFT Display
+* **Role:** Co-Developer
+* **Context:** Hobby project
+* **Description:** Small device that utilizes HTTP protocols to communicate with Spotify Web API and displays Spotify Playback State  
+* **Technology Stack:** C++, PlatformIO, SPI, HTTP, REST API, FreeRTOS
+* **Technical Highlights:** Single Core RTOS & Scheduling, WebAPI
+* [**Repository Link (esp32-c3-connectify)**](https://github.com/ciamara/ESP32-C3-connectify)
+
 ## Education
 
 * **B.Eng. in Computer Science** - Gdańsk University of Technology (2023-Now)
